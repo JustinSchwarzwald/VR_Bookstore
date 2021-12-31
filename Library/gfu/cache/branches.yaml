@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2021-12-03T15:27:19.693-07:00
+  initializedAtString: 2021-12-03T15:17:14.438-07:00
+  localBranches:
+  - name: Advertising
+    tracking: origin/Advertising
+  - name: ChangingRoom
+    tracking: origin/ChangingRoom
+  - name: changing_room_UI
+    tracking: origin/changing_room_UI
+  - name: ItemSpawnerWithSpawnPoints
+    tracking: origin/ItemSpawnerWithSpawnPoints
+  - name: master
+    tracking: origin/master
+  - name: MergedNPCandFAQUI
+    tracking: origin/MergedNPCandFAQUI
+  - name: NewItemSpawner
+    tracking: origin/NewItemSpawner
+  - name: NewItemSpawnerCopy_disableGrab
+    tracking: origin/NewItemSpawnerCopy_disableGrab
+  - name: NPC
+    tracking: origin/NPC
+  - name: ObjCollider
+    tracking: origin/ObjCollider
+  - name: OutOfStock
+    tracking: origin/OutOfStock
+  - name: PushCart_V0.2
+    tracking: origin/PushCart_V0.2
+  - name: RatingSystem
+    tracking: origin/RatingSystem
+  - name: ShoppingCart
+    tracking: origin/ShoppingCart
+  remoteBranches:
+  - name: origin/billing_ui
+    tracking: '[None]'
+  - name: origin/Bugs-and-improvements
+    tracking: '[None]'
+  - name: origin/ChangingRoom
+    tracking: '[None]'
+  - name: origin/changing_room_UI
+    tracking: '[None]'
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
+  - name: origin/MenuManager
+    tracking: '[None]'
+  - name: origin/MergedNPCandFAQUI
+    tracking: '[None]'
+  - name: origin/NewItemSpawner
+    tracking: '[None]'
+  - name: origin/npcUI
+    tracking: '[None]'
+  - name: origin/ObjCollider
+    tracking: '[None]'
+  - name: origin/OutOfStock
+    tracking: '[None]'
+  - name: origin/RayInteractionWithUI
+    tracking: '[None]'
+  - name: origin/ShoppingCartBugFixes
+    tracking: '[None]'
+  - name: origin/StockUpdate
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - Advertising
+    - ChangingRoom
+    - changing_room_UI
+    - ItemSpawnerWithSpawnPoints
+    - master
+    - MergedNPCandFAQUI
+    - NewItemSpawner
+    - NewItemSpawnerCopy_disableGrab
+    - NPC
+    - ObjCollider
+    - OutOfStock
+    - PushCart_V0.2
+    - RatingSystem
+    - ShoppingCart
+    values:
+    - name: Advertising
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: Advertising
+    - name: ChangingRoom
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: ChangingRoom
+    - name: changing_room_UI
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: changing_room_UI
+    - name: ItemSpawnerWithSpawnPoints
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: ItemSpawnerWithSpawnPoints
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: master
+    - name: MergedNPCandFAQUI
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: MergedNPCandFAQUI
+    - name: NewItemSpawner
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: NewItemSpawner
+    - name: NewItemSpawnerCopy_disableGrab
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: NewItemSpawnerCopy_disableGrab
+    - name: NPC
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: NPC
+    - name: ObjCollider
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: ObjCollider
+    - name: OutOfStock
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: OutOfStock
+    - name: PushCart_V0.2
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: PushCart_V0.2
+    - name: RatingSystem
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: RatingSystem
+    - name: ShoppingCart
+      remote:
+        name: origin
+        url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+      trackingBranch: ShoppingCart
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - billing_ui
+      - Bugs-and-improvements
+      - ChangingRoom
+      - changing_room_UI
+      - HEAD
+      - master
+      - MenuManager
+      - MergedNPCandFAQUI
+      - NewItemSpawner
+      - npcUI
+      - ObjCollider
+      - OutOfStock
+      - RayInteractionWithUI
+      - ShoppingCartBugFixes
+      - StockUpdate
+    subKeyValues:
+    - Values:
+      - name: billing_ui
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: Bugs-and-improvements
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: ChangingRoom
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: changing_room_UI
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: MenuManager
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: MergedNPCandFAQUI
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: NewItemSpawner
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: npcUI
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: ObjCollider
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: OutOfStock
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: RayInteractionWithUI
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: ShoppingCartBugFixes
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+      - name: StockUpdate
+        remote:
+          name: origin
+          url: https://github.com/JustinSchwarzwald/VR-BookStore.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/JustinSchwarzwald/VR-BookStore.git
